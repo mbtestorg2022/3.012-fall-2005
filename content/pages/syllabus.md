@@ -73,10 +73,39 @@ Recitations are scheduled in two sections, held Tuesdays and Thursdays during le
 
 1\. Composition of Final Grades:
 
-| Activities | Percentages |
-| --- | --- |
-| Problem Sets (~5 Graded Homeworks Over the Course of the Term) | 20% |
-| 3 Exams | 80% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets (~5 Graded Homeworks Over the Course of the Term)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 Exams
+{{< tdclose >}}
+{{< tdopen >}}
+80%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Two of the exams are 2 hour quizzes given during lecture sessions, the last exam will fall during finals' week. **The final exam is not cumulative**.
 
@@ -84,12 +113,57 @@ Two of the exams are 2 hour quizzes given during lecture sessions, the last exam
 
 Final letter grades will be determined by total weighted scores from the problems sets and 3 exams. The approximate score breakdown will be:
 
-| Weighted Scores | Grades |
-| --- | --- |
-| 80 and Above | A |
-| 70-79 | B |
-| 55-69 | C |
-| Less than 55 | Failing 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Weighted Scores
+{{< thclose >}}
+{{< thopen >}}
+Grades
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+80 and Above
+{{< tdclose >}}
+{{< tdopen >}}
+A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+70-79
+{{< tdclose >}}
+{{< tdopen >}}
+B
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+55-69
+{{< tdclose >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Less than 55
+{{< tdclose >}}
+{{< tdopen >}}
+Failing
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Note that these are the approximate score assignments: if your score falls at the border (e.g., between an A and B), we will look more carefully at your effort in the term to determine the final grade: did you improve over the course of the term? Were you diligent in doing the problem sets? The purpose of giving you these score assignments is to give you some indication of how you are doing as the term progresses.
 
