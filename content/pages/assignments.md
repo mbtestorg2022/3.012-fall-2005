@@ -33,7 +33,7 @@ Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps01))
 Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps02))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.0 MB]({{< baseurl >}}/resources/ps02_sol))
+([PDF - 5.0 MB]({{< baseurl >}}/resources/ps02_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +60,7 @@ Problem Set 4 ([PDF]({{< baseurl >}}/resources/ps04))
 Problem Set 5 ([PDF]({{< baseurl >}}/resources/ps05))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1 MB]({{< baseurl >}}/resources/ps05_sol))
+([PDF - 1 MB]({{< baseurl >}}/resources/ps05_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +99,7 @@ SOLUTIONS
 Problem Set 1 ([PDF]({{< baseurl >}}/resources/f04ps1))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f04ps1_sol_struc))
+([PDF]({{< baseurl >}}/resources/f04ps1_sol_struc))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +108,7 @@ Problem Set 1 ([PDF]({{< baseurl >}}/resources/f04ps1))
 Problem Set 2 ([PDF]({{< baseurl >}}/resources/f04ps2))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f04ps2_sol))
+([PDF]({{< baseurl >}}/resources/f04ps2_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +117,7 @@ Problem Set 2 ([PDF]({{< baseurl >}}/resources/f04ps2))
 Problem Set 3 ([PDF]({{< baseurl >}}/resources/f04ps3))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f04ps3_sol))
+([PDF]({{< baseurl >}}/resources/f04ps3_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +135,7 @@ Problem Set 4 ([PDF]({{< baseurl >}}/resources/f04ps4))
 Problem Set 5 ([PDF]({{< baseurl >}}/resources/f04ps5))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f04ps5_sol))
+([PDF]({{< baseurl >}}/resources/f04ps5_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +144,7 @@ Problem Set 5 ([PDF]({{< baseurl >}}/resources/f04ps5))
 Problem Set 6 ([PDF]({{< baseurl >}}/resources/f04ps6))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f04ps6_sol))
+([PDF]({{< baseurl >}}/resources/f04ps6_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +153,7 @@ Problem Set 6 ([PDF]({{< baseurl >}}/resources/f04ps6))
 Problem Set 7 ([PDF]({{< baseurl >}}/resources/f04ps7))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0 MB]({{< baseurl >}}/resources/f04ps7_sol))
+([PDF - 1.0 MB]({{< baseurl >}}/resources/f04ps7_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +162,7 @@ Problem Set 7 ([PDF]({{< baseurl >}}/resources/f04ps7))
 Problem Set 8 ([PDF]({{< baseurl >}}/resources/f04ps8))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f04ps8_sol))
+([PDF]({{< baseurl >}}/resources/f04ps8_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +171,7 @@ Problem Set 8 ([PDF]({{< baseurl >}}/resources/f04ps8))
 Problem Set 9 ([PDF]({{< baseurl >}}/resources/f04ps9))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f04ps9_sol))
+([PDF]({{< baseurl >}}/resources/f04ps9_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +180,7 @@ Problem Set 9 ([PDF]({{< baseurl >}}/resources/f04ps9))
 Problem Set 10 ([PDF]({{< baseurl >}}/resources/f04ps10))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f04ps10_sol_t))
+([PDF]({{< baseurl >}}/resources/f04ps10_sol_t))
 {{< tdclose >}}
 
 {{< trclose >}}

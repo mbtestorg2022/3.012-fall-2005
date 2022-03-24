@@ -423,7 +423,7 @@ L18
 X-rays at Work: Laue Condition, Ewald Construction, Bragg's Law, Powder Diffraction
 {{< tdclose >}}
 {{< tdopen >}}
-Read: Notes by Prof. B. Wuensch (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.3 MB]({{< baseurl >}}/resources/lec18b_wuensch)) (Courtesy of Prof. Wuensch. Used with permission.)
+Read: Notes by Prof. B. Wuensch ([PDF - 4.3 MB]({{< baseurl >}}/resources/lec18b_wuensch)) (Courtesy of Prof. Wuensch. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 Binary Phase Diagrams: Miscibility Gaps and Eutectics

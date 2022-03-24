@@ -51,9 +51,9 @@ Practice Problem Solutions ([PDF]({{< baseurl >}}/resources/rec1t_sol))
 Rb1
 {{< tdclose >}}
 {{< tdopen colspan="2" >}}
-Practice Problems (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/rec1b))  
+Practice Problems ([PDF]({{< baseurl >}}/resources/rec1b))  
   
-Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/rec1b_sol))
+Solutions ([PDF]({{< baseurl >}}/resources/rec1b_sol))
 {{< tdclose >}}
 {{< tdopen colspan="2" >}}
  
@@ -79,9 +79,9 @@ Responses to Student Questions ([PDF]({{< baseurl >}}/resources/rec2t_responses)
 Rb2
 {{< tdclose >}}
 {{< tdopen colspan="2" >}}
-Practice Problems (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/rec2b))  
+Practice Problems ([PDF]({{< baseurl >}}/resources/rec2b))  
   
-Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/rec2b_sol))
+Solutions ([PDF]({{< baseurl >}}/resources/rec2b_sol))
 {{< tdclose >}}
 {{< tdopen colspan="2" >}}
  
@@ -96,9 +96,9 @@ Rt3
  
 {{< tdclose >}}
 {{< tdopen colspan="2" >}}
-Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/rec3t_notes))  
+Notes ([PDF]({{< baseurl >}}/resources/rec3t_notes))  
   
-Practice Problem Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/rec3t_sol))
+Practice Problem Solutions ([PDF]({{< baseurl >}}/resources/rec3t_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,11 +107,11 @@ Practice Problem Solutions (![This resource may not render correctly in a screen
 Rb3
 {{< tdclose >}}
 {{< tdopen colspan="2" >}}
-Practice Problems (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/rec3b))  
+Practice Problems ([PDF]({{< baseurl >}}/resources/rec3b))  
   
-Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/rec3b_sol))  
+Solutions ([PDF]({{< baseurl >}}/resources/rec3b_sol))  
   
-Responses to Student Questions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/rec3b_responses))
+Responses to Student Questions ([PDF]({{< baseurl >}}/resources/rec3b_responses))
 {{< tdclose >}}
 {{< tdopen colspan="2" >}}
  
@@ -126,7 +126,7 @@ Rt4
  
 {{< tdclose >}}
 {{< tdopen colspan="2" >}}
-Quiz 1 Review (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/rec4t_q1review))
+Quiz 1 Review ([PDF]({{< baseurl >}}/resources/rec4t_q1review))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,9 +135,9 @@ Quiz 1 Review (![This resource may not render correctly in a screen reader.](/im
 Rb4
 {{< tdclose >}}
 {{< tdopen colspan="2" >}}
-Practice Problems (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/rec4b))  
+Practice Problems ([PDF]({{< baseurl >}}/resources/rec4b))  
   
-Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/rec4b_sol))
+Solutions ([PDF]({{< baseurl >}}/resources/rec4b_sol))
 {{< tdclose >}}
 {{< tdopen colspan="2" >}}
  
@@ -161,9 +161,9 @@ Practice Problem Solutions ([PDF]({{< baseurl >}}/resources/rec5t_sol))
 Rb5
 {{< tdclose >}}
 {{< tdopen colspan="2" >}}
-Practice Problems (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/rec5b))  
+Practice Problems ([PDF]({{< baseurl >}}/resources/rec5b))  
   
-Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/rec5b_sol))
+Solutions ([PDF]({{< baseurl >}}/resources/rec5b_sol))
 {{< tdclose >}}
 {{< tdopen colspan="2" >}}
  
@@ -222,7 +222,7 @@ Eutectic Free Energy Diagram ([MOV](/ans7870/3/3.012/f05/recitations/rec7t_eutec
 Rb7
 {{< tdclose >}}
 {{< tdopen colspan="2" >}}
-Review Session (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/rec7b_review))  
+Review Session ([PDF]({{< baseurl >}}/resources/rec7b_review))  
   
 Description of sp, sp2, sp3 Hybridization (pp. 415-417) in Atkins, P. W., and J. de Paula. _Physical Chemistry_. 7th ed. New York, NY: Oxford University Press, 2002. ISBN: 9780198792857.
 {{< tdclose >}}
@@ -239,7 +239,7 @@ Rt8
  
 {{< tdclose >}}
 {{< tdopen colspan="2" >}}
-Eutectics Notes: How to Find Compositions and Phase Fractions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/rec8t_notes))
+Eutectics Notes: How to Find Compositions and Phase Fractions ([PDF]({{< baseurl >}}/resources/rec8t_notes))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -265,7 +265,7 @@ Rt9
 {{< tdopen colspan="2" >}}
 Practice Problems ([PDF]({{< baseurl >}}/resources/rec9t_statmech))  
   
-Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/rec9t_stat_sol))
+Solutions ([PDF]({{< baseurl >}}/resources/rec9t_stat_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -274,7 +274,7 @@ Solutions (![This resource may not render correctly in a screen reader.](/images
 Rb9
 {{< tdclose >}}
 {{< tdopen colspan="2" >}}
-Notes on X-Ray Diffraction ([PDF]({{< baseurl >}}/resources/rec9b_xrd_notes)) and "Idle Mind" Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/rec9t_xrd_sol)) (These two files from [3.091](/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010) are courtesy of Prof. Don Sadoway, and used with permission.)
+Notes on X-Ray Diffraction ([PDF]({{< baseurl >}}/resources/rec9b_xrd_notes)) and "Idle Mind" Solutions ([PDF]({{< baseurl >}}/resources/rec9t_xrd_sol)) (These two files from [3.091](/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010) are courtesy of Prof. Don Sadoway, and used with permission.)
 {{< tdclose >}}
 {{< tdopen colspan="2" >}}
  
