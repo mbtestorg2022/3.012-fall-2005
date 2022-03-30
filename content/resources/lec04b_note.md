@@ -6,6 +6,7 @@ description: This file includes specific heat of graphite, metal surfaces, tunne
   quantum double-slit and deterministic vs. stochastic.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-012-fundamentals-of-materials-science-fall-2005/46bcb78c9f02a2b51ad03656389b6e03_lec04b_note.pdf
 file_type: application/pdf
+parent_uid: 9b84782c-e584-0689-a998-0228b6218bbc
 resourcetype: Document
 title: lec04b_note.pdf
 uid: 46bcb78c-9f02-a2b5-1ad0-3656389b6e03

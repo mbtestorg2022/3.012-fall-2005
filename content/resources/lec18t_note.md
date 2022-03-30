@@ -6,6 +6,7 @@ description: 'This file contains free energy and phase diagrams of ideal binary 
   eutectic systems.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-012-fundamentals-of-materials-science-fall-2005/63b965c45cfa0778c7e4b1445948c073_lec18t_note.pdf
 file_type: application/pdf
+parent_uid: 9b84782c-e584-0689-a998-0228b6218bbc
 resourcetype: Document
 title: lec18t_note.pdf
 uid: 63b965c4-5cfa-0778-c7e4-b1445948c073

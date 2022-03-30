@@ -5,6 +5,7 @@ description: this resource provides a detailed curriculum for the course and con
   that can be chosen by the students.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-012-fundamentals-of-materials-science-fall-2005/c83ee0260d8605932a7a482e7ac14030_dmse_curriculum.pdf
 file_type: application/pdf
+parent_uid: 3d41a53d-eb49-6964-154a-68915d825c3d
 resourcetype: Document
 title: dmse_curriculum.pdf
 uid: c83ee026-0d86-0593-2a7a-482e7ac14030

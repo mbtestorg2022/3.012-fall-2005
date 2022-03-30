@@ -4,6 +4,7 @@ description: This file contains thermal expansion/contraction and mechanical exp
   graphical summary of thermal behavior and thermodynamic driving forces.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-012-fundamentals-of-materials-science-fall-2005/25d2dad00afd2d3aa534cbd4005fc6e7_lec07t.pdf
 file_type: application/pdf
+parent_uid: 9b84782c-e584-0689-a998-0228b6218bbc
 resourcetype: Document
 title: lec07t.pdf
 uid: 25d2dad0-0afd-2d3a-a534-cbd4005fc6e7

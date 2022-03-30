@@ -6,6 +6,7 @@ description: This resource contains class notes on topics such as complexity of 
   levels.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-012-fundamentals-of-materials-science-fall-2005/7b377c29e00f5d29b67c44e26e3ffb86_lec11b_note.pdf
 file_type: application/pdf
+parent_uid: 9b84782c-e584-0689-a998-0228b6218bbc
 resourcetype: Document
 title: lec11b_note.pdf
 uid: 7b377c29-e00f-5d29-b67c-44e26e3ffb86
